@@ -4,7 +4,7 @@ This repository shows how to make a practical in Rmarkdown. It is made for the l
 
 ### Preview
 
-Just open [`questions.html`](questions.html) or [`answers.html`](answers.html) to see what it looks like.
+Just open [`questions.html`](https://questions.html) or [`answers.html`](answers.html) to see what it looks like.
 
 ### Prerequisites
 
