@@ -2,6 +2,10 @@
 
 This repository shows how to make a practical in Rmarkdown. It is made for the lecturers involved in the [Crash Course in Evolutionary Biology](https://evobiocrashcourse.github.io/). The example shown here is a practical about evolutionary quantitative genetics.
 
+### Preview
+
+Just open `questions.html` or `answers.html` to see what it looks like.
+
 ### Prerequisites
 
 -   [R](https://www.r-project.org/) (here 4.3.0)
